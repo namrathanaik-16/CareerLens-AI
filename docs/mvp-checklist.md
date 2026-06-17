@@ -1,6 +1,6 @@
 # CareerLens AI MVP Checklist
 ## Authentication
-- [ ] Google Login
+- [x] Google Login
 
 ## Resume module
 - [ ] Resume upload
